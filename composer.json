@@ -1,0 +1,12 @@
+{
+    "name": "dehydr8/props2yml",
+    "authors": [
+        {
+            "name": "Osama Khalid",
+            "email": "osama@codinghazard.com"
+        }
+    ],
+    "require": {
+		"nicmart/tree": "~0.2"
+	}
+}
